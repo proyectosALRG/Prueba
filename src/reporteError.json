@@ -1,0 +1,16 @@
+[
+    {
+        "idReporte" : "1",
+        "fechaReporte": "2021-06-01",
+        "codigoError":"401",
+        "descripcion":"Authorization Required",
+        "status":"No resuelto"
+    },
+    {
+        "idReporte" : "2",
+        "fechaReporte": "2021-06-01",
+        "codigoError":"403",
+        "descripcion":"Forbidden",
+        "status":"No resuelto"
+    }
+]
